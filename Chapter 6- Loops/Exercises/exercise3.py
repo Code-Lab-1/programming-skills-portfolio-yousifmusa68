@@ -3,8 +3,8 @@ while True:
     
     age = int(age)
     if age < 3:
-        print("Your ticket is free")
+        print("Your enter is free")
     elif age < 12:
-        print("Your ticket is $10") 
+        print("Your enter is dh20") 
     else:
-        print("Your ticket is $15")
+        print("Your enter is dh25")
